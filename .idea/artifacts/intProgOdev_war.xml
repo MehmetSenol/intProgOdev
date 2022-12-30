@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="intProgOdev:war">
+    <output-path>$PROJECT_DIR$/intProgOdev/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>intProgOdev</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="intProgOdev-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="intProgOdev:war exploded" />
+    </root>
+  </artifact>
+</component>

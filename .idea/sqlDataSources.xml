@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="5e66337f-8807-40be-a252-e47ae0bff583" name="mehmet Mapping">
+      <data-sources db="e607cf41-ebda-417d-9036-d196f2480715" />
+      <scope>
+        <node kind="database" qname="@">
+          <node kind="schema" negative="1" />
+        </node>
+      </scope>
+    </mapping>
+  </component>
+</project>
